@@ -1,3 +1,5 @@
+React + Firebase based project
+
 This project is a web-based platform designed to organize and manage river cleaning drives. It allows users to register for events, send enquiries, and participate in river cleaning initiatives. Admins can create, manage, and track cleaning drives, user requests, and enquiries.
 
 Features
